@@ -97,7 +97,7 @@ ul
     display: flex;
     background-color: rgb(155,67,43);
     justify-content: center;
-    background-image: url("/images/Perseverance_Sol3_Mastcam-Z_panorama-web6.jpg");
+    background-image: url("images/Perseverance_Sol3_Mastcam-Z_panorama-web6.jpg");
     min-height: 350px;
     
 }
@@ -108,7 +108,7 @@ ul
     display: flex;
     background-color: rgb(155,67,43);
     justify-content: center;
-    background-image: url("/images/Martiansunrise.jpg");
+    background-image: url("images/Martiansunrise.jpg");
     min-height: 350px;
     
 }
@@ -119,7 +119,7 @@ ul
     display: flex;
     background-color: rgb(155,67,43);
     justify-content: center;
-    background-image: url("/images/perseverance.jpg");
+    background-image: url("images/perseverance.jpg");
     min-height: 350px;
     
 }
