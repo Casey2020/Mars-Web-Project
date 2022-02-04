@@ -1,0 +1,144 @@
+*
+{
+    box-sizing:  border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+    background: #828486
+    
+}
+
+#h1-body
+{
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+img
+{
+    max-width: 100%;
+}
+
+h1,
+h2 
+{
+    margin-bottom: 15px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+
+.navbar
+{
+    display: flex;
+    background-color: #656C74;
+    
+    
+}
+
+.navbar a:hover
+{
+    color: lightblue;
+}
+
+.logo
+{
+    font-size: x-large;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+.navbar a 
+{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    /* background-color: #656C74; */
+    
+}
+
+.container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    /*height: 100%*/
+}
+
+.navbar ul 
+{
+    display: flex;
+    
+}
+
+.navbar ul li
+{
+    margin-left: 20px
+}
+
+.header
+{
+    display: flex;
+    background-color: rgb(155,67,43);
+    justify-content: center;
+    background-image: url("/images/Perseverance_Sol3_Mastcam-Z_panorama-web6.jpg");
+    min-height: 350px;
+    
+}
+
+.contact-header
+
+{
+    display: flex;
+    background-color: rgb(155,67,43);
+    justify-content: center;
+    background-image: url("/images/Martiansunrise.jpg");
+    min-height: 350px;
+    
+}
+
+.about-header
+
+{
+    display: flex;
+    background-color: rgb(155,67,43);
+    justify-content: center;
+    background-image: url("/images/perseverance.jpg");
+    min-height: 350px;
+    
+}
+
+.bg-img {
+    /* The image used */
+    /* background-image: url("/images/marsforest.jpg");
+  
+    min-height: 75px;
+  
+    /* Center and scale the image nicely */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+  }
+  
+ 
+  
+  
+  
+  
